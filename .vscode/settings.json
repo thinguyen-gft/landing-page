@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "Landing page",
+    "id": "6639e39814953ce23c44f6cd",
+    "framework": "react-nextjs",
+    "typescript": true,
+    "styling": "Styled Components",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "/Users/tiny/Desktop/thinguyen-gft/landing-page/src/components",
+    "screensPath": "/Users/tiny/Desktop/thinguyen-gft/landing-page/src/pages"
+  }
+}
